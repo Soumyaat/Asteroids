@@ -10,3 +10,5 @@ Arrows : Navigation
 
 
 Every Game has 3 lives
+
+To run this file, go to http://www.codeskulptor.org/ and copy paste this to play this game
